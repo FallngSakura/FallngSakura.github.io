@@ -116,6 +116,9 @@
     <img src="/2020/01/04/idea-2019-3-%E6%BF%80%E6%B4%BB/1.0.1.jpg" class="" title="1.0.1">
 </div>
 
+<p>然后在host文件添加</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">## IDEA</span><br><span class="line">0.0.0.0 account.jetbrains.com</span><br><span class="line">0.0.0.0 www.jetbrains.com</span><br></pre></td></tr></table></figure>
+
 <h2 id="2-复制下载好的jetbrains-agent-jar到任意磁盘避免不会被删除即可"><a href="#2-复制下载好的jetbrains-agent-jar到任意磁盘避免不会被删除即可" class="headerlink" title="2.复制下载好的jetbrains-agent.jar到任意磁盘避免不会被删除即可"></a>2.复制下载好的jetbrains-agent.jar到任意磁盘避免不会被删除即可</h2><p>打开idea先点击试用30天。如图：</p>
 <div style="width:80%;margin:auto">
 <img src="/2020/01/04/idea-2019-3-%E6%BF%80%E6%B4%BB/1.0.2.jpg" class="" title="1.0.2">
